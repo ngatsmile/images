@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "name": "background_green_left.png",
+      "url": ""
+    },
+    {
+      "name": "background_green_right.png",
+      "url": ""
+    },
+    {
+      "name": "background_sky.png",
+      "url": ""
+    },
+    {
+      "name": "hippo.png",
+      "url": ""
+    }
+  ]
+}

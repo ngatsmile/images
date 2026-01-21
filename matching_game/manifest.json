@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "name": "background_festival_forest.png",
+      "url": ""
+    },
+    {
+      "name": "background_forest.png",
+      "url": ""
+    },
+    {
+      "name": "firefly.png",
+      "url": ""
+    },
+    {
+      "name": "fox.png",
+      "url": ""
+    },
+    {
+      "name": "lights_off.png",
+      "url": ""
+    },
+    {
+      "name": "lights_turn_on.png",
+      "url": ""
+    },
+    {
+      "name": "rabbit.png",
+      "url": ""
+    }
+  ]
+}
